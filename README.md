@@ -19,8 +19,13 @@ The solver is written in C++ and provides a straightforward approach to solve Su
     To use the solver:
 
 1.Clone or download this repository.
+
+
 2.Provide the unsolved Sudoku puzzle as a 9x9 grid with empty cells represented as 0.
+
+
 3.Compile and run the program.
+
 
 👸 Acknowledgments
 
